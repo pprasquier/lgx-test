@@ -1,0 +1,85 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "com.darktalker.cordova.screenshot": {
+            "PACKAGE_NAME": "com.linegenix.app"
+        },
+        "cordova-plugin-actionsheet": {
+            "PACKAGE_NAME": "com.linegenix.app"
+        },
+        "cordova-plugin-app-version": {
+            "PACKAGE_NAME": "com.linegenix.app"
+        },
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "com.linegenix.app"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.linegenix.app"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "com.linegenix.app"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "com.linegenix.app"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.linegenix.app"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.linegenix.app"
+        },
+        "cordova-plugin-file-opener2": {
+            "PACKAGE_NAME": "com.linegenix.app"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "com.linegenix.app"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "com.linegenix.app"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.linegenix.app"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.linegenix.app"
+        },
+        "cordova-plugin-spinner": {
+            "PACKAGE_NAME": "com.linegenix.app"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.linegenix.app"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.linegenix.app"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "com.linegenix.app"
+        },
+        "cordova-plugin-x-socialsharing": {
+            "PACKAGE_NAME": "com.linegenix.app"
+        },
+        "cordova-plugin-zip": {
+            "PACKAGE_NAME": "com.linegenix.app"
+        },
+        "cordova-sqlite-storage": {
+            "PACKAGE_NAME": "com.linegenix.app"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.linegenix.app"
+        },
+        "cordova-plugin-android-permissions": {
+            "PACKAGE_NAME": "com.linegenix.app"
+        }
+    },
+    "dependent_plugins": {
+        "es6-promise-plugin": {
+            "PACKAGE_NAME": "com.linegenix.app"
+        }
+    }
+}
