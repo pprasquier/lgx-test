@@ -1,0 +1,12 @@
+In order to test on a different machine:
+1. update www/settings.json url
+2. Commit
+3. Push to origin
+4. In Phonegap, update code
+5. Download apk
+6. Launch server
+
+To update apk content from mdx:
+1. Deployment/mobile
+2. Generate new phonegap build
+3. Extract content of phonegap zip into this git's root
