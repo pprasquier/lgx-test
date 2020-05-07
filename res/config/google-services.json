@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "905367227281",
+    "firebase_url": "https://linegenix.firebaseio.com",
+    "project_id": "linegenix",
+    "storage_bucket": "linegenix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905367227281:android:1e8195bc9c4d41e446a830",
+        "android_client_info": {
+          "package_name": "com.linegenixtest.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905367227281-gu2k4klsmlg9ks2hklb7e0el3c68c7rj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNEkbWThVoH7-Z3YOfYiCO-cMHWS-jykY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905367227281-gu2k4klsmlg9ks2hklb7e0el3c68c7rj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
