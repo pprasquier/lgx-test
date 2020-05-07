@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.linegenix-test.app"
+        id        = "com.linegenixtest.app"
         version   = "0.0.20"
         xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <name>Linegenix-test</name>
+    <name>Linegenixtest</name>
 
     <description>Manage waiting lines  from your smartphone and your clients&#39;.</description>
 
