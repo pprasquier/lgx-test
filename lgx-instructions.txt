@@ -10,3 +10,6 @@ To update apk content from mdx:
 1. Deployment/mobile
 2. Generate new phonegap build
 3. Extract content of phonegap zip into this git's root
+4. For test version, update config.xml:
+   -Name= Linegenix-test
+   -Id= com.linegenix-test.app

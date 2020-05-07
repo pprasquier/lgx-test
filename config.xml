@@ -2,7 +2,7 @@
 <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.linegenix-test.app"
-        version   = "0.0.18"
+        version   = "0.0.20"
         xmlns:android="http://schemas.android.com/apk/res/android">
 
     <name>Linegenix-test</name>
@@ -62,6 +62,7 @@
 
 
 
+        <plugin name="phonegap-plugin-push" source="npm" spec="2.2.3" />
 
 
         <!-- The gradle build tool is required for the phonegap-plugin-push -->
@@ -116,6 +117,8 @@
                 <!-- Icon definitions - for more details: http://developer.android.com/guide/topics/resources/providing-resources.html -->
                     <splash src="res/android/screen-hdpi-landscape.png" density="land-hdpi"/>
 
+                <resource-file src="config/google-services.json" target="app/google-services.json" />
+                <hook type="after_prepare" src="scripts/before_build.js" />
         </platform>
 
     <splash src="res/android/screen-xxxhdpi-portrait.png" />
