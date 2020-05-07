@@ -1,15 +1,20 @@
 In order to test on a different machine:
-1. update www/settings.json url
-2. Commit
-3. Push to origin
-4. In Phonegap, update code
-5. Download apk
-6. Launch server
-
-To update apk content from mdx:
+[To update apk content from mdx:
 1. Deployment/mobile
 2. Generate new phonegap build
 3. Extract content of phonegap zip into this git's root
 4. For test version, update config.xml:
    -Name= Linegenix-test
    -Id= com.linegenixtest.app
+]
+1. update www/settings.json url
+[New Firebase connection:
+    1. Add an app in Firebase using Name and id above
+    2. Generate google-services.json
+    3. Download into res/config
+]
+2. Commit
+3. Push to origin
+4. In Phonegap, update code
+5. Download apk
+6. Launch server
