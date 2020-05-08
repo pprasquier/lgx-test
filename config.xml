@@ -27,6 +27,7 @@
     <allow-navigation href="*://*.mendixcloud.com/*" />
     <allow-navigation href="*://*.mxapp.io/*" />
     <allow-navigation href="about:*" />
+    <allow-navigation href="*" />
 
     <plugin name="com.darktalker.cordova.screenshot" source="npm" spec="0.1.6" />
     <plugin name="com.telerik.plugins.nativepagetransitions" spec="https://github.com/mendix/NativePageTransitions.git" />

@@ -18,3 +18,4 @@ In order to test on a different machine:
 4. In Phonegap, update code
 5. Download apk
 6. Launch server
+7. Remove private network firewall on server
