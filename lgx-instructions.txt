@@ -7,7 +7,7 @@ In order to test on a different machine:
    -Name= Linegenix-test
    -Id= com.linegenixtest.app
 ]
-1. update www/settings.json url
+1. update www/settings.json url !!! Make sure not to leave the s in http 
 [New Firebase connection:
     1. Add an app in Firebase using Name and id above
     2. Generate google-services.json
